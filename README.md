@@ -1,4 +1,5 @@
 ## Hi there 👋
+![squirrel-spinning-around](https://github.com/user-attachments/assets/47d2d915-b095-468d-86ed-869ba21b80ed)
 
 <!--
 **skippayy1/skippayy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
