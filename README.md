@@ -1,4 +1,4 @@
-## Hi there 👋
+## Jack of all trades: Développeur web full-stack, photographe, programmeur en jeu, amateur de linux
 
 
 <!--
