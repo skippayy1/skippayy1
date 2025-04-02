@@ -1,4 +1,4 @@
-## Jack of all trades: Développeur web full-stack, photographe, programmeur en jeu, amateur de linux
+## Jack of all trades: Développeur web full-stack, photographe, développeur en jeu, amateur de linux
 
 
 <!--
